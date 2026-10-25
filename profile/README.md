@@ -36,6 +36,6 @@ It never places an order with a broker. Connecting needs Stock Compass Pro.
 | **ChatGPT** | [chatgpt.com/plugins](https://chatgpt.com/plugins) → + → Add custom MCP server. Paste the address and choose OAuth. |
 | **Other MCP clients** | Add the address as a remote MCP server (Streamable HTTP) with OAuth. |
 
-To teach any AI how Stock Compass works, give it the [Stock Compass skill](https://github.com/Stock-Compass/stock-compass-plugin/tree/main/skills/stock-compass). It covers strategies and indicators, backtests, the journal, the API and the rules for changing your records, and works in any app that loads Agent Skills or as plain documentation.
+To teach any AI how Stock Compass works, give it the [Stock Compass skill](https://github.com/Stock-Compass/stock-compass-plugin/blob/main/skills/stock-compass/SKILL.md). It covers strategies and indicators, backtests, the journal, the API and the rules for changing your records, and works in any app that loads Agent Skills or as plain documentation.
 
 Every app sends you to stock-compass.app to sign in and approve it. Approval is read only by default; you tick changes to allow them. Disconnect at any time in Settings → AI apps & API.

@@ -36,6 +36,6 @@ Stock Compass 提供一个 MCP 服务器，任何支持远程 MCP 和 OAuth 的 
 | **ChatGPT** | 打开 [chatgpt.com/plugins](https://chatgpt.com/plugins) → + → Add custom MCP server，粘贴上面的地址，认证选 OAuth。 |
 | **其它 MCP 客户端** | 把地址添加为远程 MCP 服务器（Streamable HTTP），认证选 OAuth。 |
 
-想让任何 AI 了解 Stock Compass 的全部功能，可以把 [Stock Compass skill](https://github.com/Stock-Compass/stock-compass-plugin/tree/main/skills/stock-compass) 给它。内容包括策略和指标、回测、交易日志、API，以及改动你的记录时要遵守的规则。支持 Agent Skills 的应用可以直接加载，其它 AI 可以当文档读。
+想让任何 AI 了解 Stock Compass 的全部功能，可以把 [Stock Compass skill](https://github.com/Stock-Compass/stock-compass-plugin/blob/main/skills/stock-compass/SKILL.md) 给它。内容包括策略和指标、回测、交易日志、API，以及改动你的记录时要遵守的规则。支持 Agent Skills 的应用可以直接加载，其它 AI 可以当文档读。
 
 每个应用都会把你带到 stock-compass.app 登录并确认授权。默认只读，勾选后才允许修改。随时可以在「设置 → AI 应用与 API」里断开。
