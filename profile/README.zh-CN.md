@@ -27,7 +27,13 @@ Stock Compass 提供一个 MCP 服务器，任何支持远程 MCP 和 OAuth 的 
 
 不会去券商下单。连接需要 Stock Compass Pro。
 
-**MCP 地址：** `https://stock-compass.app/api/mcp`
+**最快的方法：** 把下面这段话发给你的 AI。它会读取[接入指南](https://stock-compass.app/ai/setup.md)，一步步带你连接；新用户还会带你注册（Pro 免费试用，不用绑卡）并开始使用。
+
+```text
+帮我接入 Stock Compass：打开 https://stock-compass.app/ai/setup.md ，按里面的步骤一步步带我完成安装、注册和第一次使用。
+```
+
+也可以自己动手。**MCP 地址：** `https://stock-compass.app/api/mcp`
 
 | 应用 | 怎么连接 |
 | --- | --- |

@@ -27,7 +27,13 @@ Stock Compass runs an MCP server, so any AI app that supports remote MCP servers
 
 It never places an order with a broker. Connecting needs Stock Compass Pro.
 
-**MCP address:** `https://stock-compass.app/api/mcp`
+**The quickest way:** paste this into your AI app. It reads the [setup guide](https://stock-compass.app/ai/setup.md) and walks you through connecting, signing up if you are new (a free Pro trial, no card) and your first steps.
+
+```text
+Set me up with Stock Compass: open https://stock-compass.app/ai/setup.md and follow it step by step to install it, sign me up and get me started.
+```
+
+Or connect it yourself. **MCP address:** `https://stock-compass.app/api/mcp`
 
 | App | How to connect |
 | --- | --- |
