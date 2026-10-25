@@ -4,13 +4,12 @@
 
 <h3 align="center">Stock Compass</h3>
 
-<p align="center">
-  Rule-based stock strategies for Hong Kong, US and China A-share investors.<br>
-  把选股和止损规则写成策略，在真实日线上回测，每个交易日扫描你的港股、美股、A股股票池。
-</p>
+<p align="center">Rule-based stock strategies for Hong Kong, US and China A-share investors.</p>
+
+<p align="center"><b>English</b> · <a href="https://github.com/Stock-Compass/.github/blob/main/profile/README.zh-CN.md">简体中文</a></p>
 
 <p align="center">
-  <a href="https://stock-compass.app">Website</a> ·
+  <a href="https://stock-compass.app/en">Website</a> ·
   <a href="https://github.com/Stock-Compass/stock-compass-plugin">Claude plugin</a> ·
   <a href="https://stock-compass.app/en/privacy">Privacy</a> ·
   <a href="mailto:support@stock-compass.app">support@stock-compass.app</a>
