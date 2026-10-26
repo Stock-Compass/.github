@@ -23,7 +23,7 @@ Write your stock-picking and stop-loss rules as a strategy. Backtest them on rea
 Stock Compass runs an MCP server, so any AI app that supports remote MCP servers with OAuth can work with your own records:
 
 - **Read**: your watchlist, holdings, trades, signals and price alerts.
-- **Change, if you allow it**: add or remove watchlist stocks, record trades, change stops and targets, and set price alerts.
+- **Change, if you allow it**: add or remove watchlist stocks, record, correct or delete trades, change stops and targets, and set price alerts.
 
 It never places an order with a broker. Connecting needs Stock Compass Pro.
 
